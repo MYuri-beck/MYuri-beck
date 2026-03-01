@@ -4,7 +4,7 @@
 💻 Atualmente sou estudante do curso técnico em **Desenvolvimento de Sistemas**.
 
 ### 🚀 Habilidades Técnicas:
-- Programação em **C/C++**, **JavaScript**
+- Programação em **C/C++**, **Java**, **Python**
 - Lógica Ladder e automação com **CLPs** (Siemens S7-1200/S7-300, Schneider M221)
 - Integração de sensores, atuadores e controle de processos
 - Interfaces gráficas para **IHM**
