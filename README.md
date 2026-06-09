@@ -1,6 +1,6 @@
  ## Olá, me chamo Yuri Mendes 👋
 
-🎓 Técnico formado em **IoT (Internet das Coisas)**, com foco em sistemas embarcados e automação industrial.  
+🎓 Técnico formado em **IoT (Internet das Coisas)**, com foco em automação industrial.  
 💻 Atualmente sou estudante do curso técnico em **Desenvolvimento de Sistemas**.
 
 ### 🚀 Habilidades Técnicas:
